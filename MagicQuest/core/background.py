@@ -18,5 +18,5 @@ def set_desktop_background(image_path):
 
 
 # 示例调用
-image_path = r'D:\绘画文件\ziliao\图片\二次元参考\0b977391b98197322ece6627822f4b43f5a74f1b_raw.jpg'
+image_path = r'E:\绘画文件\ziliao\图片\二次元参考\0b977391b98197322ece6627822f4b43f5a74f1b_raw.jpg'
 set_desktop_background(image_path)
