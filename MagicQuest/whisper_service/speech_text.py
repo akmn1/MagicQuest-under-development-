@@ -42,6 +42,6 @@ def transcribe_audio(audio_path):
 
 
 # 示例调用
-audio_path = "path_to_your_audio_file.wav"
+audio_path = r'C:\Users\lenovo\Documents\WeChat Files\wxid_kz4f79qr779r22\FileStorage\File\2024-03\U1 Scene One 00_07_28-00_10_00.mp3'
 transcribed_text = transcribe_audio(audio_path)
 print(transcribed_text)
