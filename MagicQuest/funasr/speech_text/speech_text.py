@@ -32,6 +32,6 @@ def real_time_transcribe(audio_path):
 
 
 # 使用函数进行实时转录
-audio_file_path = "D:\\浏览器下载\\vad_example.wav"  # 确保这里的路径是你的音频文件路径
+audio_file_path = r"C:\Users\lenovo\Desktop\windows桌面集成美化软件开发文件\MagicQuest\DB\audio__h9x9s4c.wav"  # 确保这里的路径是你的音频文件路径
 real_time_transcribe(audio_file_path)
 
